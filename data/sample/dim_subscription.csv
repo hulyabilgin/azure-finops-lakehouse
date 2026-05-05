@@ -1,0 +1,4 @@
+subscription_code,subscription_name,department,owner_email
+SUB-PRD-001,Production Subscription,IT,it-owner@example.com
+SUB-DEV-001,Development Subscription,Engineering,eng-owner@example.com
+SUB-DATA-001,Data Platform Subscription,Data,data-owner@example.com

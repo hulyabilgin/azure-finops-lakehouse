@@ -1,0 +1,6 @@
+resource_group_name,environment,business_unit,region
+rg-prod-data-platform,PROD,Data,westeurope
+rg-dev-data-platform,DEV,Data,westeurope
+rg-prod-app-services,PROD,Application,northeurope
+rg-dev-analytics,DEV,Analytics,westeurope
+rg-shared-monitoring,SHARED,Platform,westeurope

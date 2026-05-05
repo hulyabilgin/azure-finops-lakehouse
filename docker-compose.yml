@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: finops-postgres
+    environment:
+      POSTGRES_DB: finopsdb
+      POSTGRES_USER: finops_user
+      POSTGRES_PASSWORD: finops_pass
+    ports:
+      - "5432:5432"
+    volumes:
+      - finops_pgdata:/var/lib/postgresql/data
+
+volumes:
+  finops_pgdata:

@@ -1,0 +1,8 @@
+service_code,service_name,service_category,unit
+VM,Virtual Machines,Compute,Hours
+STORAGE,Storage Account,Storage,GB-Month
+ADF,Azure Data Factory,Data Integration,Activity Runs
+DBR,Azure Databricks,Analytics,DBU
+SQLDB,Azure SQL Database,Database,vCore-Hours
+EVENTHUB,Event Hubs,Streaming,Throughput Units
+LOG,Log Analytics,Monitoring,GB
