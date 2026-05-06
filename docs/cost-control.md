@@ -14,6 +14,15 @@ A monthly Azure budget is configured to monitor project costs.
 | Budget amount | 5 USD |
 | Alerts | 50%, 80%, 100% actual cost |
 
+## Azure Resources Created So Far
+
+| Resource Type | Name |
+|---|---|
+| Resource Group | rg-finops-lakehouse-dev-we-001 |
+| Storage Account | stfinopslakehly001 |
+| Container | finops-lake |
+| Hierarchical namespace | Enabled |
+
 ## Cost-Sensitive Resources
 
 The most cost-sensitive resources in this project are:
